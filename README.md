@@ -1,8 +1,7 @@
 
 # 🚀 Azure-Based Scalable ETL Pipeline for E-Commerce Analytics
 
-This project demonstrates a complete, modular ETL pipeline built using Microsoft Azure tools to process, transform, and serve large-scale e-commerce data for analytics and business intelligence. The pipeline follows a medallion architecture (bronze → silver → gold) and uses Azure Data Factory, Databricks, Synapse Analytics, and Power BI.
-
+This project demonstrates a complete, modular ETL pipeline built using Microsoft Azure tools to process, transform, and serve multiple-source, large-scale e-commerce data for analytics and business intelligence. The pipeline follows a medallion architecture (bronze → silver → gold) and uses Azure Data Factory, Databricks, Synapse Analytics, and Power BI.
 ---
 
 ## 🔄 Full Workflow Overview
